@@ -7,11 +7,7 @@ This repository is my work on predicting Wages and Recruitement rates in municia
 - Recruitement Rate data seems to be very distorted. No fitted model was accurate. 
 - Stockholm has higher Recruitement rates than the rest of Sweden
 
-<object data="plots/Wages_prediction_df_all.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="plots/Wages_prediction_df_all.pdf">
-        <p>This browser does not support PDFs. The Wages Prediction plot can be seen here: <a href="plots/Wages_prediction_df_all.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![Plot Wages Prediction](plots/Wages_prediction_df_all.jpg)
 
 
 
